@@ -9,14 +9,11 @@
     "description": "https://13500.xyz",
     "coingeckoId": "wukong"
   },
-  "decimals": 9,
   "creator": {
     "name": "Bodhi",
     "site": "https://13500.xyz",
     "twitter": "https://twitter.com/13500xyz"
   },
-
-  "icon": "ttps://gateway.irys.xyz/CqsbQrSEEFu6PSssZA_9CFDYplyhbaEfTSNEVWuDF84",
   "tags": [
     "Meme",
     "NFT",
