@@ -1,1 +1,19 @@
-
+{
+  "name": "Wukong",
+  "symbol": "KONG",
+  "description": "Wukong Meme Token",
+  "image": "https://gateway.irys.xyz/CqsbQrSEEFu6PSssZA_9CFDYplyhbaEfTSNEVWuDF84",
+  "extensions": {
+    "website": "https://bizforefront.xyz",
+    "twitter": "https://twitter.com/13500xyz"
+  },
+  "creator": {
+    "name": "Bodhi",
+    "website": "https://13500.xyz",
+    "twitter": "https://twitter.com/13500xyz"
+  },
+  "tags": [
+    "Meme",
+    "Tribute"
+  ]
+}
